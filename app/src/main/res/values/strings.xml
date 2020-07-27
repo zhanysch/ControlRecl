@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerControl</string>
+    <string name="remove">remove</string>
+    <string name="add">add</string>
+    <string name="welcome">Welcome!</string>
+</resources>
